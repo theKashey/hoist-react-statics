@@ -1,0 +1,29 @@
+{
+  "name": "hoist-react-statics",
+  "version": "1.0.0",
+  "description": "Dont forget to hoist all props from a base component",
+  "main": "src/index.js",
+  "types": "react-component-wrapper.d.ts",
+  "keywords": [
+    "hoc",
+    "react",
+    "hoist",
+    "propTypes",
+    "flow",
+    "ts"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thekashey/hoist-react-statics.git"
+  },
+  "author": "Anton Korzunov <thekashey@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thekashey/hoist-react-statics/issues"
+  },
+  "homepage": "https://github.com/thekashey/hoist-react-statics",
+  "dependencies": {
+    "hoist-non-react-statics": "^2.3.1",
+    "react-display-name": "^0.2.3"
+  }
+}
