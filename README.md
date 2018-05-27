@@ -1,4 +1,4 @@
-[![NPM](https://nodei.co/npm/hoist-react-statics.png?downloads=true&stars=true)](https://nodei.co/npm/hoist-react-statics/)
+[![NPM](https://nodei.co/npm/hoist-react-statics.png?downloads=true&stars=true)](https://nodei.co/npm/hoist-react-statics/) [![Greenkeeper badge](https://badges.greenkeeper.io/theKashey/hoist-react-statics.svg)](https://greenkeeper.io/)
 
 ## The problem
 
