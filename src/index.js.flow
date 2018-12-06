@@ -1,1 +1,1 @@
-declare export function hoistReactStatic<T>(targetComponent: any, sourceComponent:T): T;
+declare export default function hoistReactStatic<T>(targetComponent: any, sourceComponent:T): T;

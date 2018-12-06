@@ -1,3 +1,3 @@
 declare module 'hoist-react-statics' {
-    export function hoistReactStatic<T>(targetComponent: any, sourceComponent: T): T;
+    export default function hoistReactStatic<T>(targetComponent: any, sourceComponent: T): T;
 }
